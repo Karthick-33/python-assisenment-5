@@ -1,1 +1,8 @@
-# python-assisenment-5
+This task focuses on creating and using a dictionary in Python to store and retrieve student marks. In the program, we first define a dictionary where each key is a student's name (e.g., "Alice", "Bob") and each value is their mark (e.g., 85, 92). Then, the program asks the user to input a student's name. It checks whether the entered name exists in the dictionary. If it does, the program displays the corresponding marks. If the name is not found, it shows a message indicating that the student's name is not in the list. This task helps you understand how to use dictionaries for key-based data access, how to take input from users, and how to handle cases when the input doesn’t match any existing keys.
+
+<img width="954" height="498" alt="Screenshot 2025-07-11 161249" src="https://github.com/user-attachments/assets/e18e288d-5a82-4f4f-8a25-3bde6c880928" />
+
+
+This task is designed to help you understand the concept of list slicing in Python. The program starts by creating a list of numbers from 1 to 10 using the range() function. Then, it extracts the first five elements from the list using slicing syntax (list[:5]), which selects elements from index 0 to 4. After that, the program reverses these extracted elements using another slice with a step of -1 ([::-1]), which creates a reversed version of the list. Finally, the program prints the original list, the first five extracted elements, and their reversed version. This task teaches the basics of accessing specific parts of a list and how slicing can be used for reversing lists efficiently.
+
+<img width="948" height="502" alt="Screenshot 2025-07-11 161858" src="https://github.com/user-attachments/assets/4f25cb14-98d1-4a3f-9422-bb566304a948" />
